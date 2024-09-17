@@ -1,5 +1,5 @@
 opencv-python-headless==4.10.0.84
-numpy==1.19.3
+numpy==2.0.0
 Flask==1.1.1
 Pillow==8.0.1
 gunicorn
